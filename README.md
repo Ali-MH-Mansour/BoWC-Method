@@ -1,1 +1,2 @@
 # BoWC-Method
+## Concept-mining
